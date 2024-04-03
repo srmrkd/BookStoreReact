@@ -1,8 +1,5 @@
-# run json-server
+## Status:
+Done!
 
-npx json-server --watch 'data/db.json' --port 8000
-
-
-# run local developement server
-
-npm run start
+## Goal:
+Showcasing a React application
